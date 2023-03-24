@@ -1,0 +1,1 @@
+{"uuid":"a3cbfe59-1a78-4562-90ac-bbd67c71c405","name":"seleniumTest","children":["532e3e75-7879-4496-a1f1-0a0b0c989fcc"],"befores":[],"afters":[{"name":"close","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1679523115631,"stop":1679523115755}],"start":1679523114583,"stop":1679523115755}

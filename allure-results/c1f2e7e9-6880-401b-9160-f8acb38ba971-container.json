@@ -1,0 +1,1 @@
+{"uuid":"c1f2e7e9-6880-401b-9160-f8acb38ba971","name":"seleniumTest","children":["0cf72858-8b9d-4488-b693-f03906da580e"],"befores":[{"name":"openUrlLinuxHomePage","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1679405975713,"stop":1679405976213}],"afters":[],"start":1679405975612,"stop":1679405977131}
